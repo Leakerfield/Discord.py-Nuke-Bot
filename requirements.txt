@@ -1,0 +1,5 @@
+json
+asyncio
+datetime
+colorama
+discord.py
